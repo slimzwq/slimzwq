@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning verilog
+- 🤔 I’m seeking for collaborateing with fun guys
+- 📫 How to reach me: zwq2020@whut.edu.cn
 <!--
 **slimzwq/slimzwq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
